@@ -64,3 +64,9 @@
 2024-08-21 03:07:14.410 | INFO     | logger:log:13 - Update last sync time: 2024-08-21 03:07:14.409965
 2024-08-21 03:07:14.410 | INFO     | logger:log:13 - Finished
 2024-08-21 03:07:14.410 | INFO     | logger:log:13 - 
+2024-08-22 03:08:25.051 | INFO     | logger:log:13 - Last sync time: 2024-08-21 03:07:14.409965
+2024-08-22 03:08:25.703 | INFO     | logger:log:13 - Number of flomo memos to sync: 0
+2024-08-22 03:08:25.703 | INFO     | logger:log:13 - No flomo memos to sync
+2024-08-22 03:08:25.703 | INFO     | logger:log:13 - Update last sync time: 2024-08-22 03:08:25.703715
+2024-08-22 03:08:25.704 | INFO     | logger:log:13 - Finished
+2024-08-22 03:08:25.704 | INFO     | logger:log:13 - 
