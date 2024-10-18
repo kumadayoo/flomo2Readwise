@@ -406,3 +406,9 @@
 2024-10-17 03:14:01.363 | INFO     | logger:log:13 - Update last sync time: 2024-10-17 03:14:01.363195
 2024-10-17 03:14:01.363 | INFO     | logger:log:13 - Finished
 2024-10-17 03:14:01.363 | INFO     | logger:log:13 - 
+2024-10-18 03:14:49.672 | INFO     | logger:log:13 - Last sync time: 2024-10-17 03:14:01.363195
+2024-10-18 03:14:50.111 | INFO     | logger:log:13 - Number of flomo memos to sync: 0
+2024-10-18 03:14:50.112 | INFO     | logger:log:13 - No flomo memos to sync
+2024-10-18 03:14:50.112 | INFO     | logger:log:13 - Update last sync time: 2024-10-18 03:14:50.112288
+2024-10-18 03:14:50.112 | INFO     | logger:log:13 - Finished
+2024-10-18 03:14:50.112 | INFO     | logger:log:13 - 
