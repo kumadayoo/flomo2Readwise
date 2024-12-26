@@ -820,3 +820,9 @@
 2024-12-25 03:11:20.905 | INFO     | logger:log:13 - Update last sync time: 2024-12-25 03:11:20.905008
 2024-12-25 03:11:20.905 | INFO     | logger:log:13 - Finished
 2024-12-25 03:11:20.905 | INFO     | logger:log:13 - 
+2024-12-26 03:12:42.712 | INFO     | logger:log:13 - Last sync time: 2024-12-25 03:11:20.905008
+2024-12-26 03:12:43.487 | INFO     | logger:log:13 - Number of flomo memos to sync: 0
+2024-12-26 03:12:43.487 | INFO     | logger:log:13 - No flomo memos to sync
+2024-12-26 03:12:43.488 | INFO     | logger:log:13 - Update last sync time: 2024-12-26 03:12:43.487888
+2024-12-26 03:12:43.488 | INFO     | logger:log:13 - Finished
+2024-12-26 03:12:43.488 | INFO     | logger:log:13 - 
